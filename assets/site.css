@@ -148,6 +148,11 @@ li {
   line-height: 1.5;
 }
 
+.hero-note {
+  margin-top: 12px;
+  font-size: 0.94rem;
+}
+
 .button {
   min-height: 46px;
   border: 1px solid var(--line);
